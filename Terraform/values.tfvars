@@ -1,5 +1,5 @@
 resource_group_name              = "DimoHomiesRG"
-resource_group_location          = "West Europe"
+resource_group_location          = "northeurope"
 app_service_plan_name            = "homies-plan"
 app_service_name                 = "homiesdimo"
 sql_server_name                  = "homies-sql"
